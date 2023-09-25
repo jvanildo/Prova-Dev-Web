@@ -22,8 +22,8 @@ Nesta tela, os vídeos do YouTube são renderizados para que os usuários possam
 
 O projeto é completamente responsivo e se adapta a diferentes tamanhos de tela, proporcionando uma experiência de usuário consistente em dispositivos móveis, tablets e desktops.
 
-![Responsividade](./public/responsividade2.png)
-![Responsividade](./public/responsividade1.png)
+![Responsividade](./public/responsividade2.png) ![Responsividade](./public/responsividade1.png)
+
 
 ## Tecnologias Utilizadas
 
