@@ -2,21 +2,22 @@
 
 ## Descrição do Projeto
 
-Este projeto foi desenvolvido como parte da disciplina de Front-End. Consiste em uma plataforma de cursos onde vídeos do YouTube são incorporados em uma segunda tela. A aplicação é construída utilizando HTML e CSS.
+Este projeto foi desenvolvido como parte da disciplina de Front-End.Consiste em uma plataforma de curso onde vai ser disponibilizado os cursos que cada usuario escolher ou comprar o curso.
 
 ## Telas do Projeto
 
 ### Tela 1: Tela de Login:
 
 ![Tela Principal](./public/index.png)
+Nesta tela, vai ser feito o login do usuario para acessar a pagina dos cursos da plataforma.
 
-Esta é a página inicial da plataforma de cursos. Aqui os usuários podem navegar pelos cursos disponíveis e visualizar informações sobre cada um deles.
 
 ### Tela 2: Tela Home:
 
 ![Reprodutor de Vídeo](./public/home.png)
 
-Nesta tela, os vídeos do YouTube são renderizados para que os usuários possam assistir aos cursos selecionados.
+Esta é a página inicial da plataforma de cursos. Aqui os usuários podem navegar pelos cursos disponíveis e visualizar informações sobre cada um deles.
+
 
 ## Responsividade
 
