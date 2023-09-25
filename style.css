@@ -107,3 +107,30 @@ input{
     color: #fff;
     background-color: #a0a0a0;
 }
+
+.button-outlook:hover{
+    transition:.1s;
+    color: #fff;
+    background-color: #a0a0a0;
+}
+
+@media(max-width:860px) {
+
+    .section-chamativa{
+        display: none;
+    }
+    .login{
+        width: 80%;
+        font-size: 14px;
+    }
+    .button-outlook{
+        width: 12rem;
+        font-size: 12px;
+    }
+}
+
+@media (max-width:350){
+    .login{
+        padding-top: 1rem;
+    }
+}

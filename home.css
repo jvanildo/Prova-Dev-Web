@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Roboto:wght@300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'roboto';
+}
+body{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.nav-bar{
+    height: 5rem;
+    display: flex;
+    gap: 13rem;
+    background-color: #27ABBF;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.logo{
+    height: 3.5rem;
+}
+.lista_link{
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    list-style: none;
+}
+
+a{
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.meus_cursos{
+    padding-bottom: .3rem;
+    border-bottom: 2px solid #fff;
+}
+
+a:hover{
+    transition: .5s;
+    color: #cdcbcb;
+}
