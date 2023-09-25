@@ -1,5 +1,4 @@
 # Prova-Dev-Web
-# Projeto da Cadeira de Front-End
 
 ## Descrição do Projeto
 
