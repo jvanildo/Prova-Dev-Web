@@ -1,6 +1,5 @@
 # Prova-Dev-Web
-Clique nesse link e acesso o site:
-![Clique aqui e acesso o site !](https://prova-dev-web.josevanildo.repl.co/)
+Clique nesse link e acesso o site: https://prova-dev-web.josevanildo.repl.co/
 
 ## Descrição do Projeto
 
